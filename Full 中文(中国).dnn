@@ -1,0 +1,664 @@
+﻿<dotnetnuke type="Package" version="5.0">
+  <packages><package name="Full 中文(中国)" type="CoreLanguagePack" version="9.13.3">
+  <friendlyName>Full 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="CoreLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <displayName>中文(中国)</displayName>
+        <fallback>en-US</fallback>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package><package name="DotNetNuke.AspNetMvc 中文(中国)" type="ExtensionLanguagePack" version="5.2.61129">
+  <friendlyName>ASP.NET MVC Components 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="ExtensionLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <package>DotNetNuke.AspNetMvc</package>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package><package name="DotNetNuke.AspNetWebApi 中文(中国)" type="ExtensionLanguagePack" version="5.2.61129">
+  <friendlyName>ASP.NET Web API Components 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="ExtensionLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <package>DotNetNuke.AspNetWebApi</package>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package><package name="DotNetNuke.AspNetWebPages 中文(中国)" type="ExtensionLanguagePack" version="3.0.61129">
+  <friendlyName>ASP.NET Web Pages Components 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="ExtensionLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <package>DotNetNuke.AspNetWebPages</package>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package><package name="Dnn.ExchangeOnlineAuthProvider 中文(中国)" type="ExtensionLanguagePack" version="9.13.3">
+  <friendlyName>Exchange Online SMTP OAuth Provider 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="ExtensionLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <package>Dnn.ExchangeOnlineAuthProvider</package>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package><package name="Dnn.GoogleMailAuthProvider 中文(中国)" type="ExtensionLanguagePack" version="9.13.3">
+  <friendlyName>Google Mail SMTP OAuth Provider 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="ExtensionLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <package>Dnn.GoogleMailAuthProvider</package>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package><package name="DotNetNuke.MailKit 中文(中国)" type="ExtensionLanguagePack" version="2.15.0">
+  <friendlyName>MailKit Components 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="ExtensionLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <package>DotNetNuke.MailKit</package>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package><package name="Microsoft.Extensions.FileSystemGlobbing 中文(中国)" type="ExtensionLanguagePack" version="5.0.20">
+  <friendlyName>Microsoft.Extensions.FileSystemGlobbing Components 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="ExtensionLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <package>Microsoft.Extensions.FileSystemGlobbing</package>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package><package name="DotNetNuke.Newtonsoft.Json 中文(中国)" type="ExtensionLanguagePack" version="13.0.1">
+  <friendlyName>Newtonsoft Json Components 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="ExtensionLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <package>DotNetNuke.Newtonsoft.Json</package>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package><package name="DotNetNuke.SharpZipLib 中文(中国)" type="ExtensionLanguagePack" version="1.3.3">
+  <friendlyName>SharpZipLib 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="ExtensionLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <package>DotNetNuke.SharpZipLib</package>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package><package name="DotNetNuke.WebFormsMvp 中文(中国)" type="ExtensionLanguagePack" version="1.4.5">
+  <friendlyName>WebFormsMvp 中文(中国)</friendlyName>
+  <description />
+  <iconFile />
+  <owner>
+    <name />
+    <organization />
+    <url />
+    <email />
+  </owner>
+  <license>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</license>
+  <releaseNotes />
+  <components>
+    <component type="ExtensionLanguage">
+      <languageFiles>
+        <code>zh-CN</code>
+        <package>DotNetNuke.WebFormsMvp</package>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Export.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>Import.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleLocalization.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModulePermissions.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ModuleSettings.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Modules\App_LocalResources</path>
+          <name>ViewSource.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Privacy.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Portal\App_LocalResources</path>
+          <name>Terms.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>AccessDenied.ascx.zh-CN.resx</name>
+        </languageFile>
+        <languageFile>
+          <path>admin\Security\App_LocalResources</path>
+          <name>PasswordReset.ascx.zh-CN.resx</name>
+        </languageFile>
+      </languageFiles>
+    </component>
+  </components>
+</package></packages>
+</dotnetnuke>
