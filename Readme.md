@@ -7,7 +7,9 @@
 目前已翻译完成admin目录
 
 文件树
-*├─admin
+
+```
+├─admin
 │  ├─Modules
 │  │  └─App_LocalResources
 │  ├─Portal
@@ -19,7 +21,7 @@
 │  ├─Tabs
 │  │  └─App_LocalResources
 │  └─Users
-│      └─App_LocalResources*
+│      └─App_LocalResources
 ├─App_GlobalResources
 ├─controls
 │  └─App_LocalResources
@@ -147,3 +149,4 @@
         │  └─App_LocalResources
         └─GoogleMail
             └─App_LocalResources
+```
